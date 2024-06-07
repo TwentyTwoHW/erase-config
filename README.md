@@ -45,6 +45,8 @@ You are now ready to run the script, which will only take a few seconds.
 
 Clone this project, enter the directory and run `./run.sh`.
 
+If you get permission problems you can try running it with sudo: `sudo ./run.sh`
+
 If successful your device will reboot into the initialization screen. You may have to perform a "cold boot" (remove and re-apply power) for the init screen to appear.
 
 ## License
